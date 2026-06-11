@@ -41,6 +41,9 @@ export default function AboutUs () {
                     coffee, it will be very encouraging and greatly appreciated
                 </Paragraph>
                 <Paragraph>HackTools is created by Ludovic COULON and Riadh BOUCHAHOUA</Paragraph>
+                <Paragraph>
+                    Live demo: <Link href='https://maddixtools.vercel.app' target='_blank'>https://maddixtools.vercel.app</Link>
+                </Paragraph>
                 <a href='https://www.paypal.com/paypalme/hacktoolsEXT' target='_blank' rel='noreferrer noopener'>
                     <img
                         src='https://paymentweek.com/wp-content/uploads/2014/09/paypal-copy-1024x489.png'
